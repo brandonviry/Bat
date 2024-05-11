@@ -2,7 +2,7 @@
 
 Cet extrait de code est un script Python qui surveille l'état de la batterie d'un appareil. Il utilise la bibliothèque `psutil` pour obtenir des informations sur la batterie et la bibliothèque `plyer` pour envoyer des notifications.
 
-> ⚠️ Ce projet a été créé dans le but de surveiller la batterie de mon ordinateur portable et d'intégrer l'utilisation de l'IA dans mes projets de développement.
+> ⚠️ Ce projet a été créé dans le but de surveiller la batterie de mon ordinateur portable et d'intégrer l'utilisation de l'IA dans mes projets de développement pour accélérer le développement.  
 
 ## Fonctionnalités
 
